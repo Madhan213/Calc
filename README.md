@@ -149,6 +149,7 @@ Publish the website in the given URL.
     </html>
 ```
 ## OUTPUT:
-C:\Users\Madha\Calc\ex8\madhan\static\Screenshot (4).png
+![Screenshot (4)](https://github.com/Madhan213/Calc/assets/130206230/0a2de362-fb42-4dc1-9d15-e36a4f1c98e7)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
